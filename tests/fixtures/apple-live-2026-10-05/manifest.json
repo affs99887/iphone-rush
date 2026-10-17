@@ -1,0 +1,156 @@
+{
+  "collected_date_beijing": "2026-10-05",
+  "source": "Apple China production UI, captured through Browser skill",
+  "collector": "duo.browser.INVENTORY; browser accessibility snapshots",
+  "redactions": [
+    "checkout/signIn URL session parameters removed",
+    "Contact values replaced by test values or Apple-provided masking; no OTP persisted",
+    "Created order number replaced with W0000000000 in DOM fixtures",
+    "2026-10-17 public copy: names, masked email addresses, phone suffixes and order numbers use synthetic values; hashes describe the redacted fixtures."
+  ],
+  "limits": "Real site order created by browser tools; separate EXE run reached an add-to-bag error and did not pass full checkout acceptance. DOM replay is not launch-day performance evidence.",
+  "files": [
+    {
+      "file": "actions.jsonl",
+      "sha256": "d9f1f150ac73a65a3ecb8c11f87fe65ea908bd3db51a8171aaf5a9effaef7b83"
+    },
+    {
+      "file": "air-after-add.json",
+      "sha256": "57861cf91511067201fe04456ef2f440794a17084d22607034ce2b6e86c96697",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air?product=mg3e4ch/a&step=attach"
+    },
+    {
+      "file": "air-bag.json",
+      "sha256": "ac0ad511821b6b0b8494bc3b9c43a21033c0e574c305fc203f12c3d6998368ae",
+      "url": "https://www.apple.com.cn/shop/bag"
+    },
+    {
+      "file": "air-capacity.json",
+      "sha256": "b82816fdb518f02da471f9b1acc7115908e043bc3f2d07a670d9d2b6b07b007f",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air/mg3e4ch/a"
+    },
+    {
+      "file": "air-checkout-start.json",
+      "sha256": "b3bace2b168f2e7dabea4d388757918afba3073866ddd9f6708aeed7cc6f88fe",
+      "url": "https://secure8.www.apple.com.cn/shop/signIn"
+    },
+    {
+      "file": "air-cmb-selected.json",
+      "sha256": "b1f62102928c34dbc0dd454b15702c25b232cb3d0198ff055899e9820bb668d1",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-cmb-terms.json",
+      "sha256": "a1c5f25a1da9f4aed6cad7c6371ac5851ed9357bfdfd58e9e9d1bbc67e243d05",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-color.json",
+      "sha256": "ed485a6db7bc55da189dfab5684604357c7b11ef030e7067f24863d149e69e29",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air"
+    },
+    {
+      "file": "air-configured.json",
+      "sha256": "58956f1a49edf75ba0cce2496e8b30c05d71510b30b8bc268977c10ff9c3d507",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air/mg3e4ch/a"
+    },
+    {
+      "file": "air-contact-empty.json",
+      "sha256": "aa52619d59d901f31f8dd17dcd63f9195dbec3a257ed17b4eae750028cae1b3a",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-contact-verified.json",
+      "sha256": "1b440bc5084f3cd5b9e26c08a067a80781e0e29badbba689d718a50dd8d65a24",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-delivery-options.json",
+      "sha256": "0f35f14c5a1f110c54983396c1cd2a5779df58f7c48a7d65f39b94d7d187b0a0",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-fulfillment.json",
+      "sha256": "7f6b0c12d42c583ac5f5030aab93f925dd4c4042427829cb923498bfb4daa78e",
+      "url": "https://secure8.www.apple.com.cn/shop/signIn"
+    },
+    {
+      "file": "air-no-trade.json",
+      "sha256": "536c7827912c50b787ba6c93a2fb3bfa987b278c2bf9b677e28ff3fde1288281",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air/mg3e4ch/a"
+    },
+    {
+      "file": "air-order-cmb-pending.json",
+      "sha256": "3b75b912363e36f5e0a86e285702283325224e2fde1dacd19a0ebb60c7b88a90",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout/thankyou"
+    },
+    {
+      "file": "air-payment-options.json",
+      "sha256": "01d41d12e60115d9a099963597e6c156b5ae7186eb3819146f2aa8b152009acb",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-review-cmb24.json",
+      "sha256": "44c3c214447add2308a9f04258f1a9ee5dbc05118eb8f97acd24bb6c9a158d54",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-session-expired.json",
+      "sha256": "5cc4fb3087d33d048a226b2483feea3fc1df9a2c64ca33fab924994cb3706fc6",
+      "url": "https://www.apple.com.cn/shop/sorry/session_expired"
+    },
+    {
+      "file": "air-start.accessibility.txt",
+      "sha256": "92155a76d9245f30a4600edbf23a38735f38f707ede4856ca1d2448a737ff295"
+    },
+    {
+      "file": "air-start.json",
+      "sha256": "bfd9b99d8d4c6064906f242242f8bc2f65410f3f78690c3c73445c97404d10c2",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air"
+    },
+    {
+      "file": "air-store-ready.json",
+      "sha256": "28a00115062bae0441cabe3a1b5a9315fb18fc0a5bdbd7cefefe2a499ac58fe4",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-store-selected.json",
+      "sha256": "41d9638a716e98b7ebfcc425e5c500e549f66627aad8d5dce92d080178e4cb92",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-stores-ready.json",
+      "sha256": "271e0ba9dcac21a054fe222580ebafb865acec83c635e14e6541ff9b03d115da",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "air-stores.json",
+      "sha256": "c1852a93266d6f47f26bef98ef92be567930257c8dd6006f95a1c305a8e4b89d",
+      "url": "https://secure8.www.apple.com.cn/shop/checkout"
+    },
+    {
+      "file": "duo-live-configured.json",
+      "sha256": "3a62f58991e1bd8cdd7a447ec008d2785b9fea0f3b2421c2854c7a1e7d25646a",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo/mk2t4ch/a"
+    },
+    {
+      "file": "duo-live-no-trade.json",
+      "sha256": "c9f5cc079905c11de92b5fc0b9bbece61446f294a289ec44b1ab2344ffff5194",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo/mk2t4ch/a"
+    },
+    {
+      "file": "duo-live-start.json",
+      "sha256": "2fe8c8dd47a21d8e32ad3a71d1ff8fe3996cd038342ce6827808eaaf624774ab",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo/mk2t4ch/a"
+    },
+    {
+      "file": "duo-presale.accessibility.txt",
+      "sha256": "a0687848d864450e2a44deb62a2aa689845e5f4c2f6acded1e5577233521f5e2"
+    },
+    {
+      "file": "duo-presale.json",
+      "sha256": "9d5660e42fe303d04b62c00405de8644155a7949b8000a77aa0b33bf5e23c241",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo/mk2t4ch/a"
+    }
+  ]
+}

@@ -1,0 +1,1029 @@
+- navigation "全部网页":
+  - list:
+    - link "Apple":
+      - /url: https://www.apple.com.cn/
+      - generic: Apple
+    - list:
+      - link "商店":
+        - /url: /store
+        - generic: 商店
+      - button "商店目录":
+    - list:
+      - link "Mac":
+        - /url: https://www.apple.com.cn/mac/
+        - generic: Mac
+      - button "Mac 目录":
+    - list:
+      - link "iPad":
+        - /url: https://www.apple.com.cn/ipad/
+        - generic: iPad
+      - button "iPad 目录":
+    - list:
+      - link "iPhone":
+        - /url: https://www.apple.com.cn/iphone/
+        - generic: iPhone
+      - button "iPhone 目录":
+    - list:
+      - link "Watch":
+        - /url: https://www.apple.com.cn/watch/
+        - generic: Watch
+      - button "Apple Watch 目录":
+    - list:
+      - link "Vision":
+        - /url: https://www.apple.com.cn/apple-vision-pro/
+        - generic: Vision
+      - button "Vision 菜单":
+    - list:
+      - link "AirPods":
+        - /url: https://www.apple.com.cn/airpods/
+        - generic: AirPods
+      - button "AirPods 目录":
+    - list:
+      - link "家居":
+        - /url: https://www.apple.com.cn/apple-home/
+        - generic: 家居
+      - button "家居目录":
+    - list:
+      - link "娱乐":
+        - /url: https://www.apple.com.cn/services/
+        - generic: 娱乐
+      - button "娱乐目录":
+    - list:
+      - link "配件":
+        - /url: /shop/accessories/all
+        - generic: 配件
+      - button "配件目录":
+    - list:
+      - link "技术支持":
+        - /url: https://www.apple.com.cn/support/
+        - generic: 技术支持
+      - button "技术支持目录":
+    - button "搜索 apple.com.cn":
+    - button "打开购物袋":
+- main:
+  - paragraph:
+    - text: 入手指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，购机后 3 至 15 个月内即可升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠
+    - superscript:
+      - generic: 脚注
+      - text: "**"
+    - text: 。
+    - button "进一步了解 关于 iPhone 年年焕新计划":
+      - text: 进一步了解
+      - generic: 关于 iPhone 年年焕新计划
+  - paragraph:
+    - text: 已加入 iPhone 年年焕新计划
+    - superscript:
+      - generic: 脚注
+      - text: "**"
+    - text: ？立即通过 Apple Store app
+    - button "查询换购资格，"
+    - text: 并可选择在线或预约到店升级换购。
+  - link "iPhone Duo":
+    - /url: https://www.apple.com.cn/iphone-duo
+  - text: RMB 21,499 或
+  - generic: RMB 896/月 (24 期)
+  - generic: 不提供 3 小时快送服务
+  - generic: 暂未发售
+  - generic: 目前暂不提供 Apple Store 零售店取货服务
+  - text: 新款
+  - heading "iPhone Duo" [level=1]
+  - text: 10 月 16 日晚 8 点接受预购。10 月 23 日发售。
+  - text: 机型将在获得批准后发售
+  - text: RMB 21,499 或
+  - generic: RMB 896/月 (24 期)
+  - text: 仅支持 eSIM
+  - superscript:
+    - generic: 脚注
+    - text: "5"
+  - text: 。
+  - button "进一步了解 eSIM":
+    - text: 进一步了解
+    - generic: eSIM
+  - text: 为 Apple 智能预备好
+  - superscript:
+    - generic: 脚注
+    - text: "6"
+  - button "折抵换购优惠 RMB 250-RMB 8300 脚注 ∆∆":
+    - text: 折抵换购优惠 RMB 250-RMB 8300
+    - superscript:
+      - generic: 脚注
+      - text: ∆∆
+  - link "可享最长 24 个月免息分期服务 脚注 ◊◊ (在新窗口中打开)":
+    - /url: /shop/browse/finance/installment_landing
+    - text: 可享最长 24 个月免息分期服务
+    - superscript:
+      - generic: 脚注
+      - text: ◊◊
+    - generic: (在新窗口中打开)
+  - region "iPhone Duo 图库":
+    - tablist:
+      - tab "图库图片 1" [disabled] [selected]
+      - tab "图库图片 2" [disabled]
+      - tab "图库图片 3" [disabled]
+      - tab "图库图片 4" [disabled]
+      - tab "图库图片 5" [disabled]
+    - tabpanel "图库图片 1":
+      - img "星光白色 iPhone Duo，呈折叠状态，背面外观，展示机身左上角的融合式双摄系统和机身中央的 Apple 标志；展开的内屏，展示全面屏设计和圆角设计。"
+    - tabpanel:
+    - button "上一张图库图片" [disabled]:
+      - generic: 上一张图库图片
+    - button "下一张图库图片":
+      - generic: 下一张图库图片
+  - group "外观： 选择你喜欢的颜色。":
+    - heading "外观： 选择你喜欢的颜色。" [level=2]
+    - generic: 颜色 - 星光白色
+    - list:
+      - radio "星光白色" [checked]
+      - generic: 星光白色
+      - radio "夜空色"
+      - generic: 夜空色
+  - generic: 来对比一下 iPhone Duo 和 iPhone 18 Pro Max 的显示屏尺寸。
+  - button "展开 来对比一下 iPhone Duo 和 iPhone 18 Pro Max 的显示屏尺寸。":
+    - generic: 展开
+  - group "存储容量： 你需要多大的存储空⁠间？":
+    - heading "存储容量： 你需要多大的存储空⁠间？" [level=2]
+    - radio "256GB 脚注 1 RMB 15,999 或 RMB 667/月 (24 期) 起"
+    - text: 256GB
+    - superscript:
+      - generic: 脚注
+      - text: "1"
+    - generic: RMB 15,999
+    - generic: 或 RMB 667/月 (24 期) 起
+    - radio "512GB 脚注 1 RMB 17,999 或 RMB 750/月 (24 期) 起"
+    - text: 512GB
+    - superscript:
+      - generic: 脚注
+      - text: "1"
+    - generic: RMB 17,999
+    - generic: 或 RMB 750/月 (24 期) 起
+    - radio "1TB 脚注 1 RMB 21,499 或 RMB 896/月 (24 期) 起" [checked]
+    - text: 1TB
+    - superscript:
+      - generic: 脚注
+      - text: "1"
+    - generic: RMB 21,499
+    - generic: 或 RMB 896/月 (24 期) 起
+    - radio "2TB 脚注 1 RMB 26,499 或 RMB 1105/月 (24 期) 起"
+    - text: 2TB
+    - superscript:
+      - generic: 脚注
+      - text: "1"
+    - generic: RMB 26,499
+    - generic: 或 RMB 1105/月 (24 期) 起
+  - generic: 不确定要选多大的存储容量？
+  - generic: 让我们帮你更清楚地了解你所需的容‍量‍。
+  - button "展开 不确定要选多大的存储容量？":
+    - generic: 展开
+  - heading "折抵换购或升级换购：换购新 iPhone 可优惠 RMB 250-RMB 8300 脚注 ∆∆。" [level=2]:
+    - text: 折抵换购或升级换购：
+    - text: 换购新 iPhone 可优惠 RMB 250-RMB 8300
+    - superscript:
+      - generic: 脚注
+      - text: ∆∆
+    - text: 。
+  - group "折抵换购或升级换购：换购新 iPhone 可优惠 RMB 250-RMB 8300 脚注 ∆∆。":
+    - radio "添加折抵设备 回答几个问题，获得折抵估价。"
+    - generic: 添加折抵设备
+    - generic: 回答几个问题，获得折抵估价。
+    - radio "不折抵换购"
+    - generic: 不折抵换购
+  - generic: 如何进行折抵换购？
+  - generic: 了解如何通过折抵换购省一笔，或免费回收处理手中的设备。
+  - button "展开 如何进行折抵换购？":
+    - generic: 展开
+  - region:
+    - heading "AppleCare 保障服务。 各项保障，力保安心 脚注 §。" [level=2]:
+      - text: AppleCare 保障服务。
+      - text: 各项保障，力保安心
+      - superscript:
+        - generic: 脚注
+        - text: §
+      - text: 。
+    - group "AppleCare 保障服务。 各项保障，力保安心 脚注 §。":
+      - radio "AppleCare+ 服务计划与 iPhone 年年焕新计划 不限次数的意外损坏保修服务 脚注 §§ 原装电池换修 (蓄电能力低于80%适用) 经 Apple 认证、使用正品 Apple 部件的维修服务 优先获得 Apple 专家的帮助 符合条件的情况下，可享iPhone年年焕新计划权益 轻松升级至新款 iPhone (加入计划的第 3 个月起到第 15 个月末符合条件) 设备残值有保障（可达iPhone原购买价格的至少50%）" [disabled]
+      - generic: AppleCare+ 服务计划与 iPhone 年年焕新计划
+      - list:
+        - text: 不限次数的意外损坏保修服务
+        - superscript:
+          - generic: 脚注
+          - text: §§
+        - listitem: 原装电池换修 (蓄电能力低于80%适用)
+        - listitem: 经 Apple 认证、使用正品 Apple 部件的维修服务
+        - listitem: 优先获得 Apple 专家的帮助
+      - paragraph: 符合条件的情况下，可享iPhone年年焕新计划权益
+      - list:
+        - listitem: 轻松升级至新款 iPhone (加入计划的第 3 个月起到第 15 个月末符合条件)
+        - listitem: 设备残值有保障（可达iPhone原购买价格的至少50%）
+      - radio "不加 AppleCare+ 服务计划" [disabled]
+      - generic: 不加 AppleCare+ 服务计划
+    - generic: AppleCare+ 服务计划与 iPhone 年年焕新计划
+    - generic: 进一步了解
+    - button "展开 AppleCare+ 服务计划与 iPhone 年年焕新计划" [disabled]:
+      - generic: 展开
+  - heading "你的新 iPhone Duo，" [level=2]
+  - generic: 按你喜好， 合你心意。
+  - img "星光白色 iPhone Duo，呈折叠状态，背面外观展示融合式双摄系统、两个镜头、麦克风和闪光灯，以及机身中央的 Apple 标志；侧面外观展示侧边按钮。"
+  - generic: iPhone Duo 1TB 星光白色
+  - text: 仅支持 eSIM。需要前往运营商线下营业厅核验身份证件并进行激活
+  - superscript:
+    - generic: 脚注
+    - text: "7"
+  - text: 。
+  - generic: RMB 21,499
+  - generic: 或
+  - generic: RMB 896/月 (24 期)
+  - text: 含增值税及其他法定税费
+  - text: ：约 RMB 2,480
+  - superscript:
+    - generic: 脚注
+    - text: ∆
+  - text: 。
+  - button "可享免息分期付款 (iPhone Duo 1TB 星光白色 starwhite 1tb 的分期付款选项)":
+    - text: 可享免息分期付款
+    - generic: (iPhone Duo 1TB 星光白色 starwhite 1tb 的分期付款选项)
+  - heading "需要考虑一下？" [level=3]
+  - generic: 将此设备加入你的收藏，即可先保留全部配置选择，之后随时回来再继续选购。
+  - button "收藏" [disabled]:
+    - generic: 收藏
+  - generic: 结账时会显示你所在地区的送货详情。
+  - text: "预计送达日期:"
+  - list:
+    - listitem: 暂未发售
+  - text: 取货：
+  - generic: 目前暂不提供 Apple Store 零售店取货服务
+  - button "继续" [disabled]
+  - link "咨询 iPhone Specialist 专家 (在新窗口中打开)"
+  - heading "包装内容" [level=2]
+  - list:
+    - img "星光白色 iPhone Duo，呈折叠状态，背面外观展示圆角设计、铰链侧面的直边、机身左上角的融合式双摄系统，以及机身中央的 Apple 标志。"
+    - generic: iPhone Duo
+    - img "USB-C 至 USB-C 充电线，展示白色接头和白色编织线。"
+    - generic: USB-C 充电线
+  - paragraph:
+    - heading "我们的环保目标。" [level=2]:
+      - strong: 我们的环保目标。
+    - text: 为了达成我们
+    - link "2030 年实现碳中和":
+      - /url: https://www.apple.com.cn/environment
+    - text: 的目标，iPhone Duo 不再随附电源适配器和 EarPods。包装盒内随附一根 USB‑C 充电线，可支持快速充电，并兼容 USB‑C 电源适配器和电脑端口。
+    - text: 我们建议你使用任意一款兼容的 USB‑C 电源适配器。如果你需要新的 Apple 电源适配器或耳机，也可随时购买。
+  - heading "Specialist 专家一对一讲解，帮你设置新设备。" [level=2]
+  - paragraph: 直接从 Apple 购买产品，你将可以体验我们免费的在线个人设置辅导，在协助下完成数据传输，充分用好手上的新设备。
+  - paragraph:
+    - button "进一步了解个人设置辅导"
+  - heading "哪款 iPhone 适合你？" [level=2]
+  - generic "iPhone Duo":
+    - img "星光白色 iPhone Duo，呈折叠状态，背面外观展示机身左上角的融合式双摄系统和机身中央的 Apple 标志；展开的内屏，展示全面屏设计和圆角设计。"
+    - img "iPhone Duo 可选颜色：夜空色、星光白色"
+    - generic: 新款
+    - paragraph:
+      - link "iPhone Duo":
+        - /url: https://www.apple.com.cn/shop/buy-iphone/iphone-duo
+    - paragraph: 显示屏尺寸最大的 iPhone，可折叠、灵活摆、超坚固。
+    - paragraph: RMB 15,999 起
+    - list:
+      - paragraph: 7.6 英寸
+      - paragraph:
+        - text: 7.6 英寸超视网膜 XDR 可折叠屏，采用纳米纹理工艺
+        - superscript:
+          - generic: 脚注
+          - text: "2"
+      - paragraph:
+        - text: 5.4 英寸超视网膜 XDR 外屏
+        - superscript:
+          - generic: 脚注
+          - text: "2"
+      - paragraph: ProMotion 自适应刷新率技术
+      - paragraph: 全天候显示
+      - paragraph: 灵动岛功能
+      - img "iPhone Duo 展示不同的折叠状态：帐篷模式、书本模式、笔记本电脑模式。"
+      - paragraph: 重新构想的 iOS 体验，为灵活多用而设计。
+      - generic: 机身材质。
+      - paragraph: 钛金属边框和铰链护壳
+      - paragraph:
+        - text: —
+        - generic: 没有操作按钮
+      - paragraph: 相机控制，取用照片和视频工具更快捷
+      - img "电池"
+      - generic: 电池
+      - paragraph:
+        - text: 使用外屏的视频播放最长可达 44 小时
+        - superscript:
+          - generic: 脚注
+          - text: "3"
+      - paragraph:
+        - text: 使用内屏的视频播放最长可达 31 小时
+        - superscript:
+          - generic: 脚注
+          - text: "3"
+      - img "A20 Pro 芯片"
+      - generic: A20 Pro 芯片
+      - paragraph: A20 Pro 芯片
+      - paragraph: 6 核中央处理器
+      - paragraph: 7 核图形处理器，配备神经网络加速器
+      - paragraph: 双 16 核神经网络引擎
+      - paragraph: 硬件加速光线追踪
+      - generic: 后置摄像头
+      - paragraph: 4800 万像素融合式双摄系统
+      - paragraph: 4800 万像素融合式主摄 | 4800 万像素融合式超广角
+      - paragraph:
+        - text: —
+        - generic: 没有 Pro 级控制选项
+      - paragraph:
+        - text: 超高分辨率照片
+        - text: (2400 万像素和 4800 万像素)
+      - paragraph: 智能拍摄
+      - paragraph: Duo 双屏预览
+      - paragraph: 摄影风格 3
+      - paragraph: 杜比视界视频拍摄，最高可达 4K，120 fps
+      - paragraph: 智能追踪对焦
+      - paragraph: 支持为视频添加电影效果模式特效 (融合式主摄)
+      - paragraph: 优化的低光视频拍摄
+      - paragraph: 新一代人像功能，支持焦点控制和景深控制
+      - paragraph: 微距摄影
+      - generic: 画面中有一个人，两个箭头方向相反。
+      - paragraph: 1200 万像素 Center Stage 前置摄像头
+      - paragraph: 轻点变焦和旋转
+      - paragraph: 拍照人物居中
+      - paragraph: 视频超稳防抖
+      - paragraph: 同步双拍
+      - paragraph: 视频通话人物居中
+      - paragraph: 屏下 FaceTime 摄像头
+      - img "0.5 倍、1 倍、2 倍"
+      - paragraph:
+        - text: 光学变焦选项
+        - generic: .5x、1x、2x
+      - paragraph:
+        - text: —
+        - generic: 没有 ƒ/1.48、ƒ/1.8、ƒ/2.8、ƒ/4.0 可变光圈选项 (融合式主摄)
+      - separator
+  - generic "iPhone 18 Pro":
+    - img "iPhone 18 Pro Max 和 iPhone 18 Pro：勃艮第酒红色 (深红色系) iPhone 18 Pro Max，背面外观展示机身上部的 Pro 级融合式摄像头系统和机身中央的 Apple 标志；iPhone 18 Pro，正面外观展示全面屏设计。"
+    - img "iPhone 18 Pro 可选颜色：勃艮第酒红色、冰川蓝色、银色、黑色"
+    - generic: 新款
+    - paragraph:
+      - link "iPhone 18 Pro":
+        - /url: https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro
+    - paragraph: iPhone 实力巅峰，性能与摄像头表现满级，电池续航大进化。
+    - paragraph: RMB 9999 起
+    - list:
+      - paragraph: 6.9 英寸或 6.3 英寸
+      - paragraph:
+        - text: 超视网膜 XDR 显示屏
+        - superscript:
+          - generic: 脚注
+          - text: "2"
+      - paragraph:
+        - text: —
+        - generic: 没有 5.4 英寸超视网膜 XDR 外屏
+      - paragraph: ProMotion 自适应刷新率技术
+      - paragraph: 全天候显示
+      - paragraph: 灵动岛功能
+      - paragraph:
+        - text: —
+        - generic: 不适用：重新构想的 iOS 体验，为灵活多用而设计。
+      - generic: 机身材质。
+      - paragraph: 铝金属一体成型机身
+      - paragraph: 操作按钮
+      - paragraph: 相机控制，取用照片和视频工具更快捷
+      - img "电池"
+      - generic: 电池
+      - paragraph:
+        - text: 视频播放最长可达 43 小时
+        - superscript:
+          - generic: 脚注
+          - text: "4"
+      - paragraph:
+        - text: —
+        - generic: 不适用：使用内屏的视频播放最长可达 31 小时
+      - img "A20 Pro 芯片"
+      - generic: A20 Pro 芯片
+      - paragraph: A20 Pro 芯片
+      - paragraph: 6 核中央处理器
+      - paragraph: 7 核图形处理器，配备神经网络加速器
+      - paragraph: 双 16 核神经网络引擎
+      - paragraph: 硬件加速光线追踪
+      - generic: 后置摄像头
+      - paragraph: 4800 万像素 Pro 级融合式摄像头系统
+      - paragraph: 4800 万像素融合式主摄 (可变光圈) | 4800 万像素融合式超广角 | 4800 万像素融合式长焦
+      - paragraph: Pro 级控制选项
+      - paragraph:
+        - text: 超高分辨率照片
+        - text: (2400 万像素和 4800 万像素)
+      - paragraph:
+        - text: —
+        - generic: 没有智能拍摄
+      - paragraph:
+        - text: —
+        - generic: 没有双屏预览功能
+      - paragraph: 摄影风格 3
+      - paragraph: 杜比视界视频拍摄，最高可达 4K，120 fps
+      - paragraph: 智能追踪对焦
+      - paragraph: 支持为视频添加电影效果模式特效 (融合式主摄)
+      - paragraph: 优化的低光视频拍摄
+      - paragraph: 新一代人像功能，支持焦点控制和景深控制
+      - paragraph: 微距摄影
+      - generic: 画面中有一个人，两个箭头方向相反。
+      - paragraph: 1800 万像素 Center Stage 前置摄像头
+      - paragraph: 轻点变焦和旋转
+      - paragraph: 拍照人物居中
+      - paragraph: 视频超稳防抖
+      - paragraph: 同步双拍
+      - paragraph: 视频通话人物居中
+      - paragraph:
+        - text: —
+        - generic: 没有屏下 FaceTime 摄像头
+      - img "0.5 倍、1 倍、2 倍、4 倍、8 倍"
+      - paragraph:
+        - text: 光学变焦选项
+        - generic: 0.5 倍，1 倍，2 倍，4 倍，8 倍。
+      - generic: 可变光圈选项
+      - paragraph: ƒ/1.48、ƒ/1.8、ƒ/2.8、ƒ/4.0 可变光圈选项 (融合式主摄)
+      - separator
+  - img "天蓝色 iPhone Air，背面外观展示融合式摄像头系统，正面外观展示全面屏设计、灵动岛、显示屏细黑边框。"
+  - img "iPhone Air 可选颜色：天蓝色、浅金色、云白色、深空黑色"
+  - paragraph:
+    - link "iPhone Air":
+      - /url: https://www.apple.com.cn/shop/buy-iphone/iphone-air
+  - paragraph: 超轻超薄，Pro 级性能表现。
+  - paragraph: RMB 8799 起
+  - list:
+    - paragraph: 6.5 英寸
+    - paragraph:
+      - text: 超视网膜 XDR 显示屏
+      - superscript:
+        - generic: 脚注
+        - text: "2"
+    - paragraph:
+      - text: —
+      - generic: 没有 5.4 英寸超视网膜 XDR 外屏
+    - paragraph: ProMotion 自适应刷新率技术
+    - paragraph: 全天候显示
+    - paragraph: 灵动岛功能
+    - paragraph:
+      - text: —
+      - generic: 不适用：重新构想的 iOS 体验，为灵活多用而设计。
+    - generic: 机身材质。
+    - paragraph: 钛金属边框
+    - paragraph: 操作按钮
+    - paragraph: 相机控制，取用照片和视频工具更快捷
+    - img "电池"
+    - generic: 电池
+    - paragraph:
+      - text: 视频播放最长可达 27 小时
+      - superscript:
+        - generic: 脚注
+        - text: "3"
+    - paragraph:
+      - text: —
+      - generic: 不适用：使用外屏最长可达 44 小时
+    - img "A19 Pro 芯片"
+    - generic: A19 Pro 芯片
+    - paragraph: A19 Pro 芯片
+    - paragraph: 6 核中央处理器
+    - paragraph: 5 核图形处理器，配备神经网络加速器
+    - paragraph: 16 核神经网络引擎
+    - paragraph: 硬件加速光线追踪
+    - generic: 后置摄像头
+    - paragraph: 4800 万像素融合式摄像头系统
+    - paragraph: 4800 万像素融合式主摄
+    - paragraph:
+      - text: —
+      - generic: 没有 Pro 级控制选项
+    - paragraph:
+      - text: 超高分辨率照片
+      - text: (2400 万像素和 4800 万像素)
+    - paragraph:
+      - text: —
+      - generic: 没有智能拍摄
+    - paragraph:
+      - text: —
+      - generic: 没有双屏预览功能
+    - paragraph: 摄影风格 2
+    - paragraph: 杜比视界视频拍摄，最高可达 4K，60 fps
+    - paragraph:
+      - text: —
+      - generic: 没有智能追踪对焦功能
+    - paragraph:
+      - text: —
+      - generic: 不支持为视频添加电影效果模式特效 (融合式主摄)
+    - paragraph:
+      - text: —
+      - generic: 没有优化的低光视频拍摄功能
+    - paragraph: 新一代人像功能，支持焦点控制和景深控制
+    - paragraph:
+      - text: —
+      - generic: 不支持微距摄影
+    - generic: 画面中有一个人，两个箭头方向相反。
+    - paragraph: 1800 万像素 Center Stage 前置摄像头
+    - paragraph: 轻点变焦和旋转
+    - paragraph: 拍照人物居中
+    - paragraph: 视频超稳防抖
+    - paragraph: 同步双拍
+    - paragraph: 视频通话人物居中
+    - paragraph:
+      - text: —
+      - generic: 没有屏下 FaceTime 摄像头
+    - img "1 倍、2 倍"
+    - paragraph:
+      - text: 光学变焦选项
+      - generic: 1x、2x
+    - paragraph:
+      - text: —
+      - generic: 没有 ƒ/1.48、ƒ/1.8、ƒ/2.8、ƒ/4.0 可变光圈选项 (融合式主摄)
+    - separator
+  - generic "iPhone 17e":
+    - img "薰衣草紫色 iPhone 17，背面外观展示融合式双摄系统，正面外观展示全面屏设计、灵动岛和细窄的黑色显示屏边框。"
+    - img "iPhone 17 可选颜色：薰衣草紫色、鼠尾草绿色、青雾蓝色、白色、黑色"
+    - paragraph:
+      - link "iPhone 17":
+        - /url: https://www.apple.com.cn/shop/buy-iphone/iphone-17
+    - paragraph: 好本领，好耐用，好感度拉满。
+    - paragraph: RMB 6799 起
+    - list:
+      - paragraph: 6.3 英寸
+      - paragraph:
+        - text: 超视网膜 XDR 显示屏
+        - superscript:
+          - generic: 脚注
+          - text: "2"
+      - paragraph:
+        - text: —
+        - generic: 没有 5.4 英寸超视网膜 XDR 外屏
+      - paragraph: ProMotion 自适应刷新率技术
+      - paragraph: 全天候显示
+      - paragraph: 灵动岛功能
+      - paragraph:
+        - text: —
+        - generic: 不适用：重新构想的 iOS 体验，为灵活多用而设计。
+      - generic: 机身材质。
+      - paragraph: 铝金属边框
+      - paragraph: 操作按钮
+      - paragraph: 相机控制，取用照片和视频工具更快捷
+      - img "电池"
+      - generic: 电池
+      - paragraph:
+        - text: 视频播放最长可达 30 小时
+        - superscript:
+          - generic: 脚注
+          - text: "3"
+      - paragraph:
+        - text: —
+        - generic: 不适用：使用内屏的视频播放最长可达 31 小时
+      - img "A19 芯片"
+      - generic: A19 芯片
+      - paragraph: A19 芯片
+      - paragraph: 6 核中央处理器
+      - paragraph: 5 核图形处理器，配备神经网络加速器
+      - paragraph: 16 核神经网络引擎
+      - paragraph: 硬件加速光线追踪
+      - generic: 后置摄像头
+      - paragraph: 4800 万像素融合式双摄系统
+      - paragraph: 4800 万像素融合式主摄 | 4800 万像素融合式超广角
+      - paragraph:
+        - text: —
+        - generic: 没有 Pro 级控制选项
+      - paragraph:
+        - text: 超高分辨率照片
+        - text: (2400 万像素和 4800 万像素)
+      - paragraph:
+        - text: —
+        - generic: 没有智能拍摄
+      - paragraph:
+        - text: —
+        - generic: 没有双屏预览功能
+      - paragraph: 摄影风格 2
+      - paragraph: 杜比视界视频拍摄，最高可达 4K，60 fps
+      - paragraph:
+        - text: —
+        - generic: 没有智能追踪对焦功能
+      - paragraph:
+        - text: —
+        - generic: 不支持为视频添加电影效果模式特效 (融合式主摄)
+      - paragraph:
+        - text: —
+        - generic: 没有优化的低光视频拍摄功能
+      - paragraph: 新一代人像功能，支持焦点控制和景深控制
+      - paragraph: 微距摄影
+      - generic: 画面中有一个人，两个箭头方向相反。
+      - paragraph: 1800 万像素 Center Stage 前置摄像头
+      - paragraph: 轻点变焦和旋转
+      - paragraph: 拍照人物居中
+      - paragraph: 视频超稳防抖
+      - paragraph: 同步双拍
+      - paragraph: 视频通话人物居中
+      - paragraph:
+        - text: —
+        - generic: 没有屏下 FaceTime 摄像头
+      - img "0.5 倍、1 倍、2 倍"
+      - paragraph:
+        - text: 光学变焦选项
+        - generic: .5x、1x、2x
+      - paragraph:
+        - text: —
+        - generic: 没有 ƒ/1.48、ƒ/1.8、ƒ/2.8、ƒ/4.0 可变光圈选项 (融合式主摄)
+      - separator
+  - img "浅粉色 iPhone 17e，背面外观展示融合式摄像头系统、机身中央的 Apple 标志；正面外观展示全面屏设计、集成原深感摄像头的刘海区、显示屏细黑边框和圆角直边设计。"
+  - img "iPhone 17e 可选颜色：浅粉色、白色、黑色"
+  - paragraph:
+    - link "iPhone 17e":
+      - /url: https://www.apple.com.cn/shop/buy-iphone/iphone-17e
+  - paragraph: 本领叠满，超值加持。
+  - paragraph: RMB 5299 起
+  - list:
+    - paragraph: 6.1 英寸
+    - paragraph:
+      - text: 超视网膜 XDR 显示屏
+      - superscript:
+        - generic: 脚注
+        - text: "2"
+    - paragraph:
+      - text: —
+      - generic: 没有 5.4 英寸超视网膜 XDR 外屏
+    - paragraph:
+      - text: —
+      - generic: 不支持 ProMotion 自适应刷新率技术
+    - paragraph:
+      - text: —
+      - generic: 不支持全天候显示
+    - paragraph:
+      - text: —
+      - generic: 不支持灵动岛功能
+    - paragraph:
+      - text: —
+      - generic: 不适用：重新构想的 iOS 体验，为灵活多用而设计。
+    - generic: 机身材质。
+    - paragraph: 铝金属边框
+    - paragraph: 操作按钮
+    - paragraph:
+      - text: —
+      - generic: 不支持可以更快捷地取用照片和视频工具的相机控制。
+    - img "电池"
+    - generic: 电池
+    - paragraph:
+      - text: 视频播放最长可达 26 小时
+      - superscript:
+        - generic: 脚注
+        - text: "3"
+    - paragraph:
+      - text: —
+      - generic: 不适用：使用内屏的视频播放最长可达 31 小时
+    - img "A19 芯片"
+    - generic: A19 芯片
+    - paragraph: A19 芯片
+    - paragraph: 6 核中央处理器
+    - paragraph: 4 核图形处理器，配备神经网络加速器
+    - paragraph: 16 核神经网络引擎
+    - paragraph: 硬件加速光线追踪
+    - generic: 后置摄像头
+    - paragraph: 4800 万像素融合式摄像头系统
+    - paragraph: 4800 万像素融合式主摄
+    - paragraph:
+      - text: —
+      - generic: 没有 Pro 级控制选项
+    - paragraph:
+      - text: 超高分辨率照片
+      - text: (2400 万像素和 4800 万像素)
+    - paragraph:
+      - text: —
+      - generic: 没有智能拍摄
+    - paragraph:
+      - text: —
+      - generic: 没有双屏预览功能
+    - paragraph: 摄影风格
+    - paragraph: 杜比视界视频拍摄，最高可达 4K，60 fps
+    - paragraph:
+      - text: —
+      - generic: 没有智能追踪对焦功能
+    - paragraph:
+      - text: —
+      - generic: 不支持为视频添加电影效果模式特效 (融合式主摄)
+    - paragraph:
+      - text: —
+      - generic: 没有优化的低光视频拍摄功能
+    - paragraph: 新一代人像功能，支持焦点控制和景深控制
+    - paragraph:
+      - text: —
+      - generic: 不支持微距摄影
+    - generic: 1200 万像素原深感摄像头
+    - paragraph: 1200 万像素原深感摄像头
+    - paragraph: 轻点变焦
+    - paragraph:
+      - text: —
+      - generic: 不支持拍照人物居中
+    - paragraph:
+      - text: —
+      - generic: 不支持视频超稳防抖
+    - paragraph:
+      - text: —
+      - generic: 不支持同步双拍
+    - paragraph:
+      - text: —
+      - generic: 无视频通话人物居中
+    - paragraph:
+      - text: —
+      - generic: 没有屏下 FaceTime 摄像头
+    - img "1 倍、2 倍"
+    - paragraph:
+      - text: 光学变焦选项
+      - generic: 1x、2x
+    - paragraph:
+      - text: —
+      - generic: 没有 ƒ/1.48、ƒ/1.8、ƒ/2.8、ƒ/4.0 可变光圈选项 (融合式主摄)
+    - separator
+  - paragraph:
+    - link "比较各款 iPhone 机型":
+      - /url: https://www.apple.com.cn/iphone/compare
+  - list:
+    - heading "常见问题解答" [level=2]:
+      - button "常见问题解答" [expanded]:
+        - generic: 常见问题解答
+    - list:
+      - heading "什么是 eSIM？" [level=3]:
+        - button "什么是 eSIM？":
+          - generic: 什么是 eSIM？
+      - heading "iPhone Duo 如何通过 eSIM 激活运营商网络？" [level=3]:
+        - button "iPhone Duo 如何通过 eSIM 激活运营商网络？":
+          - generic: iPhone Duo 如何通过 eSIM 激活运营商网络？
+      - heading "在 apple.com 购买不含 SIM 卡的 iPhone 有哪些好处？" [level=3]:
+        - button "在 apple.com 购买不含 SIM 卡的 iPhone 有哪些好处？":
+          - generic: 在 apple.com 购买不含 SIM 卡的 iPhone 有哪些好处？
+      - heading "我的 iPhone 是否能在全球范围内使用？" [level=3]:
+        - button "我的 iPhone 是否能在全球范围内使用？":
+          - generic: 我的 iPhone 是否能在全球范围内使用？
+      - heading "我的 iPhone 可以退货吗？" [level=3]:
+        - button "我的 iPhone 可以退货吗？":
+          - generic: 我的 iPhone 可以退货吗？
+      - heading "有什么资源能帮我快速完成设置，转移现有文件，充分用好手里的新 iPhone？" [level=3]:
+        - button "有什么资源能帮我快速完成设置，转移现有文件，充分用好手里的新 iPhone？":
+          - generic: 有什么资源能帮我快速完成设置，转移现有文件，充分用好手里的新 iPhone？
+      - heading "iPhone 年年焕新计划是如何运作的？" [level=3]:
+        - button "iPhone 年年焕新计划是如何运作的？":
+          - generic: iPhone 年年焕新计划是如何运作的？
+      - heading "哪些移动通信运营商提供 5G 服务？" [level=3]:
+        - button "哪些移动通信运营商提供 5G 服务？":
+          - generic: 哪些移动通信运营商提供 5G 服务？
+      - heading "如果 Apple 智能将来在中国推出，我在中国购买的 iPhone Duo、iPhone 18 Pro Max、iPhone 18 Pro、iPhone 17、iPhone 17e、iPhone 16 和 iPhone Air 系列机型能启用 Apple 智能吗？" [level=3]:
+        - button "如果 Apple 智能将来在中国推出，我在中国购买的 iPhone Duo、iPhone 18 Pro Max、iPhone 18 Pro、iPhone 17、iPhone 17e、iPhone 16 和 iPhone Air 系列机型能启用 Apple 智能吗？":
+          - generic: 如果 Apple 智能将来在中国推出，我在中国购买的 iPhone Duo、iPhone 18 Pro Max、iPhone 18 Pro、iPhone 17、iPhone 17e、iPhone 16 和 iPhone Air 系列机型能启用 Apple 智能吗？
+- contentinfo "网页页脚":
+  - heading "网页页脚" [level=2]
+  - heading "脚注" [level=3]
+  - list "脚注":
+    - generic: 脚注
+    - text: § 维修范围仅限于受保障设备及其原包装随附的配件，并针对以下问题：(i) 材料或工艺存在缺陷；(ii) 电池容量低于其初始容量的 80%；(iii) 意外损坏 (不限次数)。意外损坏指使用过程中由意料之外或非故意的事件而造成的物理损坏。如果你的服务计划涵盖一台 iPad，则与此 iPad 搭配使用的一支兼容的 Apple Pencil 和一个兼容的 Apple 品牌 iPad 键盘也在保障范围内。Apple 在维修或更换服务中提供的替换部件，可能包含新部件，也可能包含使用过的、经测试并符合 Apple 功能要求的正品 Apple 部件。针对设备自身机械故障的维修，不收取服务费。意外损坏保修服务每次收取相应的服务费。如需了解完整详情，请参阅
+    - link "条款与条件 (在新窗口中打开)":
+      - /url: http://apple.com.cn/legal/sales-support/applecare/applecareplus
+      - text: 条款与条件
+      - generic: (在新窗口中打开)
+    - text: 。
+    - paragraph:
+      - text: 保修服务根据你所在地区的 AppleCare 服务计划的条款与条件而提供。在你购买 AppleCare 服务计划的国家或地区之外，保修服务无法保证提供。服务选项的供应情况和类型可能依设备型号、适用的当地法律、法规和法律要求，以及服务申请所在地 Apple 授权服务提供商的服务类型而有所不同。某些服务选项可能仅适用于部分地区。如果服务可用且具备维修条件，Apple 可能将自行决定使用符合当地标准和法规的本地采购机型或部件来维修或更换你的设备，这些机型或部件在颜色和/或规格方面可能与原设备有所不同。详情请参阅
+      - link "条款与条件 (在新窗口中打开)":
+        - /url: http://apple.com.cn/legal/sales-support/applecare/applecareplus
+        - text: 条款与条件
+        - generic: (在新窗口中打开)
+      - text: 。
+    - paragraph:
+      - text: 参阅 AppleCare 服务费的完整列表，请点击
+      - link "这里 (在新窗口中打开)":
+        - /url: http://apple.com.cn/legal/applecare/fees-deductibles
+        - text: 这里
+        - generic: (在新窗口中打开)
+      - text: 。每次维修或更换服务都会单独收取服务费。
+    - paragraph:
+      - text: 在 AppleCare+ 服务计划
+      - link "条款与条件 (在新窗口中打开)":
+        - /url: http://apple.com.cn/legal/sales-support/applecare/applecareplus
+        - text: 条款与条件
+        - generic: (在新窗口中打开)
+      - text: 中，超瓷晶面板 (背面) 也称为“玻璃背板”；超瓷晶面板显示屏也称为“屏幕”。
+    - paragraph: AppleCare+ 服务计划可提供除 Apple 有限保修服务和你所在辖区消费者权益保护法所赋予任何法律权利之外的附加权益。享受 AppleCare+ 服务计划需接受条款与条件。购买设备不一定需要购买该服务计划。
+    - paragraph:
+      - text: AppleCare+ 服务计划由上海亚美国际咨询有限公司 (“AICS”) 负责。该公司成立于中华人民共和国上海市，注册办公地址为中国 (上海) 自由贸易试验区陆家嘴环路 1000 号 3 楼 301A 单元、31 楼 012 室。详情请参阅
+      - link "apple.com.cn/legal/sales-support/applecare/applecareplus/ (在新窗口中打开)":
+        - /url: http://apple.com.cn/legal/sales-support/applecare/applecareplus
+        - text: apple.com.cn/legal/sales-support/applecare/applecareplus/
+        - generic: (在新窗口中打开)
+      - text: 具体条款。
+    - generic: 脚注
+    - text: §§ AppleCare+ 服务计划可为使用过程中发生的意外损坏提供不限次数的保修服务，每次收取相应的服务费。
+    - generic: 脚注
+    - text: ∆ 为近似值。金额可能随时间变动。
+    - generic: 脚注
+    - text: "** 只有符合 Apple 指定条件的 iPhone 才可参与本计划。本计划的加⼊及之后的升级换购不能与其他优惠(包括但不限于商务客户优惠及企业员⼯客户优惠等)同时享受。原设备须状况完好，详情请参阅"
+    - link "iPhone年年焕新计划的完整条款和条件":
+      - /url: https://www.apple.com.cn/legal/sales-support/iphoneupgrade_cn/
+    - text: 。
+    - generic: 脚注
+    - text: ◊ 该折抵优惠包括由第三方折抵服务合作伙伴提供的设备折抵金额以及 Apple 提供的购新优惠。享受该服务需出示政府颁发并附有照片的有效身份证件。年满 18 周岁及以上者才可参与本计划。现有设备的折抵金额可用于冲抵购买新的 Apple 设备。该服务可能仅在部分 Apple Store 零售店和 Apple Store 在线商店提供，并且该服务仅限于部分符合条件的设备。原设备须状况完好，详情请参阅
+    - link "iPhone 年年焕新计划的完整条款和条件":
+      - /url: https://www.apple.com.cn/legal/sales-support/iphoneupgrade_cn/
+    - text: 。
+    - generic: 脚注
+    - text: ◊◊
+    - strong: 分期付款服务的条件
+    - paragraph: 上述所示分期付款金额仅为使用特定期数免息分期付款估算得出的示例 (仅显示整数数额，未显示小数点以后的金额)，实际支付金额以银行、花呗或微信分付账单为准。上述分期付款方案由信用卡发卡机构 (包括但不限于招商银行、中国建设银行、中国工商银行等，具体支持分期付款服务的可选择银行及对应分期付款方案请见付款页面)、蚂蚁金服 (花呗) 以及微信分付面向符合条件的中国大陆居民提供。部分银行会要求你通过支付宝完成购买。Apple Store 零售店的分期付款方案可能与 Apple Store 在线商店不同，请到店咨询 Specialist 专家。所有银行信用卡分期均需经你的信用卡发卡机构批准；对于花呗分期，需经蚂蚁金服批准；对于微信分付分期，需经微信分付批准。如果你选择的分期付款方案未获得信用卡发卡机构、蚂蚁金服或微信分付的批准，Apple 将不会被告知原因。请参阅信用卡发卡机构 (包括但不限于招商银行、中国建设银行、中国工商银行等，具体支持分期付款服务的可选择银行请见付款页面) 网站、支付宝网站和微信分付服务页面，了解相关条件、费用和收费。订单可能需要满足特定金额要求，不同免息分期期数对应的最低限额可能有所不同。上述分期付款服务只适用于个人消费者。企业和教育机构客户、企业员工购买计划 (EPP) 和 Apple 员工购买计划 (EPP) 适用的分期付款方案可能与上述方案不同，详情请参见教育商店、EPP 在线商店和企业商店。公司信用卡无资格申请分期。招商银行分期付款单笔订单最高限额为 RMB 150000。
+    - paragraph: 当商品有货并/或发货时，购物金额将计入你的信用卡、支付宝或微信分付账单。相关财务费用将显示在你的信用卡对账单、支付宝或微信账户中。
+    - paragraph: 产品按广告宣传价或标价提供分期付款服务。价格包含增值税。所有订单均可享受免费送货服务。
+    - paragraph: 此信息更新于 2026 年 7 月 30 日。
+    - generic: 脚注
+    - text: ∆∆ 折抵换购服务由 Apple 的折抵服务合作伙伴提供。折抵金额报价仅为预估价，实际折抵金额可能低于预估价值，具体金额取决于设备的状况、配置、推出年份，以及发售国家或地区。并非所有设备均有资格获得第三方折抵服务合作伙伴提供的设备折抵金额或 Apple 提供的购新优惠。年满 18 周岁及以上者才可参与本计划。现有设备的折抵金额可用于折抵购买新的 Apple 设备。实际折抵金额取决于收到的符合折抵条件的设备情况是否与评估报价时你提供的设备描述相符合。可能需按照新设备的全额售价缴纳销售税。店内折抵需出示政府颁发并附有照片的有效身份证件 (当地法律可能会要求存储该信息)。该服务可能仅在部分 Apple Store 零售店提供，在线换购和店内换购的折抵金额可能有所不同。某些 Apple Store 零售店可能有不同要求。Apple 的折抵服务合作伙伴保留出于任何原因拒绝、取消任何折抵交易或限制任何设备 (及其数量) 的权利。如需获得有关折抵及设备回收服务的更多信息，请咨询 Apple 的折抵服务合作伙伴。需要遵守 Apple 的折抵服务合作伙伴的其他条款。
+    - generic: 脚注
+    - generic: "1."
+    - generic: 实际可用容量会由于诸多因素而减少并有所差异。标准系统配置会占用约 12GB 到 24GB 容量 (其中包括 iOS 27 及其最新功能，以及各款可删除的 Apple app)。各款可删除的 Apple app 大约占用 4.5GB 容量，删除后还可从 App Store 重新下载。存储容量依软件版本、设置和 iPhone 机型的不同而有所差异。
+    - generic: 脚注
+    - generic: "2."
+    - generic: 显示屏采用曲线优美的圆角设计，四个圆角位于一个标准矩形内。按照标准矩形测量时，屏幕的对角线长度是 5.36 英寸 (iPhone Duo 外屏)、6.06 英寸 (iPhone 16e、iPhone 17e)、6.12 英寸 (iPhone 16)、6.27 英寸 (iPhone 17、iPhone 18 Pro)、6.55 英寸 (iPhone Air)、6.86 英寸 (iPhone 18 Pro Max) 或 7.58 英寸 (iPhone Duo 可折叠内屏)。实际可视区域较小。
+    - generic: 脚注
+    - generic: "3."
+    - generic: 所有电池性能信息取决于网络配置和许多其他因素，实际结果可能有所不同。电池充电周期次数有限，最终可能需要更换。电池续航时间和充电周期次数依使用和设置情况的不同而可能有所差异。
+    - generic: 脚注
+    - generic: "4."
+    - text: 此电池续航时间指的是同系列中较大尺寸的机型。所有电池性能信息取决于网络设置和许多其他因素，实际结果可能有所不同。电池充电周期次数有限，最终可能需要更换。电池续航时间和充电周期次数依使用和设置情况的不同而可能有所差异。详情请参阅
+    - link "apple.com.cn/batteries":
+      - /url: https://www.apple.com.cn/batteries
+    - text: 和
+    - link "apple.com.cn/iphone/battery.html":
+      - /url: https://www.apple.com.cn/iphone/battery.html
+    - text: 。
+    - generic: 脚注
+    - generic: "5."
+    - text: iPhone Duo 通过 eSIM 激活运营商网络，不支持实体 SIM 卡。使用 eSIM 需要选择支持 eSIM 的运营商及相关的移动通信服务计划。在中国大陆仅支持激活型号 A3518、A3635、A3715、A3718 和 A3721。请前往中国移动、中国电信或中国联通的线下营业厅核验身份证件并进行激活。激活可能需要符合更多要求。进一步了解
+    - link "如何在中国大陆激活 eSIM":
+      - /url: https://support.apple.com/zh-cn/123879
+    - text: 。
+    - generic: 脚注
+    - generic: "6."
+    - paragraph:
+      - strong: 对于中国居民：
+      - text: Apple 智能暂不适用于在中国大陆购买的 iPhone 机型。对于在中国大陆以外购买的支持 Apple 智能的 iPhone 机型，如果你位于中国大陆，且
+      - link "Apple 账户国家/地区":
+        - /url: http://support.apple.com/zh-cn/118283
+      - text: 也设置在中国大陆，则目前无法使用 Apple 智能。
+    - paragraph: 当 Apple 智能在中国大陆推出时，先前购买的支持 Apple 智能的 iPhone 机型将可在该地区激活并使用此功能。
+    - generic: 脚注
+    - generic: "7."
+    - text: 使用 eSIM 需要选择支持 eSIM 的运营商及相关的移动通信服务计划。在中国大陆仅支持激活型号 A3518 和 A3635。请前往中国移动、中国电信或中国联通的线下营业厅核验身份证件并进行激活。激活可能需要符合更多要求。进一步了解
+    - link "如何在中国大陆激活 eSIM":
+      - /url: https://support.apple.com/zh-cn/123879
+    - text: 。
+    - listitem: 为预计时间，实际发货和送货时间可能根据你选择的付款方式、完成付款时间和产品存货状况而有所变化。
+    - listitem: 产品图像仅供参考，请以实际销售实物为准。
+  - paragraph:
+    - text: "* 折抵换购服务由 Apple 的折抵服务合作伙伴提供。折抵金额报价仅为预估价，实际折抵金额可能低于预估价值，具体金额取决于设备的状况、配置、推出年份，以及发售国家或地区。并非所有设备均有资格获得第三方折抵服务合作伙伴提供的设备折抵金额或 Apple 提供的购新优惠。所示价格是使用符合折抵条件设备的最高容量机型换购的价格。所示平均每月支付金额是以上述折抵换购价格按照所示分期期数平均分配计算得出的示例 (仅显示整数数额，未显示小数点以后的金额)。实际折抵金额的返还方式可能有所不同，所示的平均月付金额与实际月付金额可能并不相同。实际每月支付金额以银行或花呗账单为准。最高可享 24 期免息分期，到 Apple Store 零售店和在线商店购买时可享受的免息分期期数和最低限额可能有所不同，银行和花呗提供的免息分期期数和最低限额可能有所不同。银行或花呗可能要求你的可用信用额度大于所购买产品的总金额，才能使用分期付款服务。有关信用卡或花呗分期服务的申请及使用问题，请与银行或花呗联系，Apple 对此不做任何承诺和保证。订单可能需要满足特定金额要求，如需了解更多免息分期付款信息，"
+    - link "请点击此处":
+      - /url: /shop/browse/finance/installments
+    - text: 。年满 18 周岁及以上者才可参与折抵换购服务。现有设备的折抵金额可用于折抵购买新的 Apple 设备。实际折抵金额取决于收到的符合折抵条件的设备情况是否与评估报价时你提供的设备描述相符合。可能需按照新设备的全额售价缴纳销售税。店内折抵需出示政府颁发并附有照片的有效身份证件 (当地法律可能会要求存储该信息)。该服务可能仅在部分 Apple Store 零售店提供，在线换购和店内换购的折抵金额可能有所不同。某些 Apple Store 零售店可 能有不同要求。Apple 的折抵服务合作伙伴保留出于任何原因拒绝、取消任何折抵交易或限制任何设备 (及其数量) 的权利。如需获得有关折抵及设备回收服务的更多信息，请咨询 Apple 的折抵服务合作伙伴。需要遵守 Apple 的折抵服务合作伙伴的其他条款。
+  - paragraph: 我们会使用你所在位置，为你更快显示送货选项。我们通过你的 IP 地址，或者你在上次访问 Apple 网站时输入的位置信息，找到了你的位置。
+  - navigation "路径指引":
+    - link "Apple":
+      - /url: https://www.apple.com.cn/
+      - generic: Apple
+    - list:
+      - link "iPhone":
+        - /url: https://www.apple.com.cn/iphone
+      - link "iPhone Duo":
+        - /url: https://www.apple.com.cn/iphone-duo
+      - listitem: 购买 iPhone Duo
+  - navigation "更多 Apple Store 連結":
+    - heading "选购及了解" [level=3]:
+      - generic: 选购及了解
+    - list:
+      - link "商店":
+        - /url: https://www.apple.com.cn/shop/goto/store
+      - link "Mac":
+        - /url: https://www.apple.com.cn/mac/
+      - link "iPad":
+        - /url: https://www.apple.com.cn/ipad/
+      - link "iPhone":
+        - /url: https://www.apple.com.cn/iphone/
+      - link "Watch":
+        - /url: https://www.apple.com.cn/watch/
+      - link "Vision":
+        - /url: https://www.apple.com.cn/apple-vision-pro/
+      - link "AirPods":
+        - /url: https://www.apple.com.cn/airpods/
+      - link "家居":
+        - /url: https://www.apple.com.cn/tv/
+      - link "AirTag":
+        - /url: https://www.apple.com.cn/airtag/
+      - link "配件":
+        - /url: /shop/accessories/all
+      - link "App Store 充值卡":
+        - /url: /shop/gift-cards
+    - heading "Apple 钱包" [level=3]:
+      - generic: Apple 钱包
+    - list:
+      - link "Apple Pay":
+        - /url: https://www.apple.com.cn/apple-pay/
+    - heading "账户" [level=3]:
+      - generic: 账户
+    - list:
+      - link "管理你的 Apple 账户":
+        - /url: https://appleid.apple.com/
+      - link "Apple Store 账户":
+        - /url: https://secure.www.apple.com.cn/shop/account/home
+      - link "iCloud.com":
+        - /url: https://www.icloud.com
+    - heading "娱乐" [level=3]:
+      - generic: 娱乐
+    - list:
+      - link "Apple Music":
+        - /url: https://www.apple.com.cn/apple-music/
+      - link "Apple 播客":
+        - /url: https://www.apple.com.cn/apple-podcasts/
+      - link "App Store":
+        - /url: https://www.apple.com.cn/app-store/
+    - heading "Apple Store 商店" [level=3]:
+      - generic: Apple Store 商店
+    - list:
+      - link "查找零售店":
+        - /url: https://www.apple.com.cn/retail/
+      - link "Genius Bar 天才吧":
+        - /url: https://www.apple.com.cn/retail/geniusbar/
+      - link "Today at Apple":
+        - /url: https://www.apple.com.cn/today/
+      - link "Apple 夏令营":
+        - /url: https://apple.com.cn/today/camp
+      - link "Apple Store App":
+        - /url: https://itunes.apple.com/cn/app/apple-store/id375380948?mt=8
+      - link "认证的翻新产品":
+        - /url: /shop/refurbished
+      - link "Apple Trade In 换购计划":
+        - /url: /shop/trade-in
+      - link "分期付款":
+        - /url: /shop/browse/finance/installment_landing
+      - link "订单状态":
+        - /url: https://secure.www.apple.com.cn/shop/order/list
+      - link "选购帮助":
+        - /url: /shop/help
+    - heading "商务应用" [level=3]:
+      - generic: 商务应用
+    - list:
+      - link "Apple 与商务":
+        - /url: https://www.apple.com.cn/business/
+      - link "商务选购":
+        - /url: https://www.apple.com.cn/retail/business/
+    - heading "教育应用" [level=3]:
+      - generic: 教育应用
+    - list:
+      - link "Apple 与教育":
+        - /url: https://www.apple.com.cn/education/
+      - link "高校师生选购":
+        - /url: /shop/browse/home/education_routing
+    - heading "Apple 价值观" [level=3]:
+      - generic: Apple 价值观
+    - list:
+      - link "辅助功能":
+        - /url: https://www.apple.com.cn/accessibility/
+      - link "环境责任":
+        - /url: https://www.apple.com.cn/environment/
+      - link "隐私":
+        - /url: https://www.apple.com.cn/privacy/
+      - link "供应链":
+        - /url: https://www.apple.com.cn/supply-chain/
+    - heading "关于 Apple" [level=3]:
+      - generic: 关于 Apple
+    - list:
+      - link "Newsroom":
+        - /url: https://www.apple.com.cn/newsroom/
+      - link "Apple 管理层":
+        - /url: https://www.apple.com.cn/leadership/
+      - link "工作机会":
+        - /url: https://www.apple.com/jobs/cn/
+      - link "创造就业":
+        - /url: https://www.apple.com.cn/job-creation/
+      - link "商业道德与合规性":
+        - /url: https://www.apple.com/compliance
+      - link "活动":
+        - /url: https://www.apple.com.cn/apple-events/
+      - link "联系 Apple":
+        - /url: https://www.apple.com.cn/contact/
+  - paragraph:
+    - text: 更多选购方式：
+    - link "查找你附近的 Apple Store 零售店":
+      - /url: https://www.apple.com.cn/retail
+    - text: 及
+    - link "更多门店":
+      - /url: https://locate.apple.com/cn/zh
+    - text: ，或者致电 400-666-8800。
+  - generic: Copyright © 2026 Apple Inc. 保留所有权利。
+  - list:
+    - link "隐私政策":
+      - /url: https://www.apple.com.cn/privacy/privacy-policy
+    - link "使用条款":
+      - /url: https://www.apple.com.cn/legal/terms/site.html
+    - link "销售政策":
+      - /url: /shop/open/salespolicies
+    - link "法律信息":
+      - /url: https://www.apple.com.cn/legal
+    - link "网站地图":
+      - /url: /shop/browse/sitemap
+- status
+- status
+- status
+- status
+- status
+- status
+- status

@@ -1,0 +1,55 @@
+{
+  "auth": false,
+  "busy": false,
+  "challenge": false,
+  "frames": [],
+  "nodes": [
+    {
+      "context": "你的订单正在等待付款，请使用“掌上生活” App 扫描二维码支付。\n\n请在 30 分钟内完成付款，以免订单被取消。\n\n付款完成后，我们会立即开始处理你的订单，并通过电子邮件或 iMessage 信息向你发送最新的送货或取货详情。请准备好出示与订单上的姓名一致的身份证件以及发货或取货通知。\n\n请使用“掌上生活” App 扫码支付\n\n订单 #W0000000000\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n \n常见问题解答",
+      "disabled": false,
+      "href": "https://www.apple.com.cn/xc/cn/vieworder/W0000000000/fixture@example.invalid",
+      "id": "",
+      "kind": "a",
+      "label": "订单 #W0000000000",
+      "name": "",
+      "options": [],
+      "required": false,
+      "selected": false,
+      "selector": "#thankyou-container > div > div:nth-of-type(1) > div > div > a",
+      "value": ""
+    },
+    {
+      "context": "你的订单正在等待付款，请使用“掌上生活” App 扫描二维码支付。\n\n请在 30 分钟内完成付款，以免订单被取消。\n\n付款完成后，我们会立即开始处理你的订单，并通过电子邮件或 iMessage 信息向你发送最新的送货或取货详情。请准备好出示与订单上的姓名一致的身份证件以及发货或取货通知。\n\n请使用“掌上生活” App 扫码支付\n\n订单 #W0000000000\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n \n常见问题解答",
+      "disabled": false,
+      "href": "https://secure8.www.apple.com.cn/shop/checkout/thankyou",
+      "id": "",
+      "kind": "a",
+      "label": "立即在线交流 (在新窗口中打开)",
+      "name": "",
+      "options": [],
+      "required": false,
+      "selected": false,
+      "selector": "#thankyou-container > div > div:nth-of-type(2) > div > div > a",
+      "value": ""
+    },
+    {
+      "context": "你的订单正在等待付款，请使用“掌上生活” App 扫描二维码支付。\n\n请在 30 分钟内完成付款，以免订单被取消。\n\n付款完成后，我们会立即开始处理你的订单，并通过电子邮件或 iMessage 信息向你发送最新的送货或取货详情。请准备好出示与订单上的姓名一致的身份证件以及发货或取货通知。\n\n请使用“掌上生活” App 扫码支付\n\n订单 #W0000000000\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n \n常见问题解答",
+      "disabled": false,
+      "href": "",
+      "id": "title-_r_0_-0",
+      "kind": "button",
+      "label": "常见问题解答",
+      "name": "",
+      "options": [],
+      "required": false,
+      "selected": false,
+      "selector": "#title-_r_0_-0",
+      "value": ""
+    }
+  ],
+  "phone_verified": false,
+  "summary": "你的订单正在等待付款，请使用“掌上生活” App 扫描二维码支付。\n\n请在 30 分钟内完成付款，以免订单被取消。\n\n付款完成后，我们会立即开始处理你的订单，并通过电子邮件或 iMessage 信息向你发送最新的送货或取货详情。请准备好出示与订单上的姓名一致的身份证件以及发货或取货通知。\n\n请使用“掌上生活” App 扫码支付\n\n订单 #W0000000000\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n \n常见问题解答\n",
+  "text": "你的订单正在等待付款，请使用“掌上生活” App 扫描二维码支付。\n\n请在 30 分钟内完成付款，以免订单被取消。\n\n付款完成后，我们会立即开始处理你的订单，并通过电子邮件或 iMessage 信息向你发送最新的送货或取货详情。请准备好出示与订单上的姓名一致的身份证件以及发货或取货通知。\n\n请使用“掌上生活” App 扫码支付\n\n订单 #W0000000000\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n \n常见问题解答",
+  "title": "谢谢：订单确认 - Apple (中国大陆)",
+  "url": "https://secure8.www.apple.com.cn/shop/checkout/thankyou"
+}

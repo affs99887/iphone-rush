@@ -1,0 +1,247 @@
+{
+ "url": "https://www.apple.com.cn/shop/bag",
+ "title": "购物袋 - Apple (中国大陆)",
+ "ready_state": "interactive",
+ "text": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+ "nodes": [
+  {
+   "selector": "#shoppingCart\\.actions\\.navCheckout",
+   "label": "结账",
+   "kind": "button",
+   "name": "",
+   "id": "shoppingCart.actions.navCheckout",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账",
+   "href": "",
+   "options": []
+  },
+  {
+   "selector": "#bag-content > ol > li > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2 > a",
+   "label": "iPhone Air 1TB 云白色",
+   "kind": "a",
+   "name": "",
+   "id": "",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "https://www.apple.com.cn/shop/product/mg3e4ch/a",
+   "options": []
+  },
+  {
+   "selector": "#cart-items-item-855c01c4-3ab1-4bf2-8c7c-a82140aad77f-itemQuantity",
+   "label": "数量",
+   "kind": "select-one",
+   "name": "",
+   "id": "cart-items-item-855c01c4-3ab1-4bf2-8c7c-a82140aad77f-itemQuantity",
+   "selected": false,
+   "disabled": false,
+   "value": "1",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "",
+   "options": [
+    {
+     "text": "1",
+     "value": "1",
+     "disabled": false
+    },
+    {
+     "text": "2",
+     "value": "2",
+     "disabled": false
+    },
+    {
+     "text": "3",
+     "value": "3",
+     "disabled": false
+    },
+    {
+     "text": "4",
+     "value": "4",
+     "disabled": false
+    },
+    {
+     "text": "5",
+     "value": "5",
+     "disabled": false
+    },
+    {
+     "text": "6",
+     "value": "6",
+     "disabled": false
+    },
+    {
+     "text": "7",
+     "value": "7",
+     "disabled": false
+    },
+    {
+     "text": "8",
+     "value": "8",
+     "disabled": false
+    },
+    {
+     "text": "9",
+     "value": "9",
+     "disabled": false
+    },
+    {
+     "text": "10+",
+     "value": "10",
+     "disabled": false
+    }
+   ]
+  },
+  {
+   "selector": "#shoppingCart\\.items\\.item-855c01c4-3ab1-4bf2-8c7c-a82140aad77f\\.delete",
+   "label": "移除 iPhone Air 1TB 云白色",
+   "kind": "button",
+   "name": "",
+   "id": "shoppingCart.items.item-855c01c4-3ab1-4bf2-8c7c-a82140aad77f.delete",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "",
+   "options": []
+  },
+  {
+   "selector": "#bag-content > ol > li > div > div:nth-of-type(2) > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div:nth-of-type(1) > button",
+   "label": "进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) 添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)",
+   "kind": "button",
+   "name": "",
+   "id": "",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "",
+   "options": []
+  },
+  {
+   "selector": "#shoppingCart\\.items\\.item-855c01c4-3ab1-4bf2-8c7c-a82140aad77f\\.inlineRecommendations\\.sWYM2CH\\/A\\.add",
+   "label": "添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799",
+   "kind": "button",
+   "name": "",
+   "id": "shoppingCart.items.item-855c01c4-3ab1-4bf2-8c7c-a82140aad77f.inlineRecommendations.sWYM2CH/A.add",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "",
+   "options": []
+  },
+  {
+   "selector": "#shoppingCart\\.items\\.item-855c01c4-3ab1-4bf2-8c7c-a82140aad77f\\.delivery\\.storeLocatorView",
+   "label": "Apple 环球港 , Show more stores near the postcode you entered",
+   "kind": "button",
+   "name": "",
+   "id": "shoppingCart.items.item-855c01c4-3ab1-4bf2-8c7c-a82140aad77f.delivery.storeLocatorView",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "",
+   "options": []
+  },
+  {
+   "selector": "#bag-content > ol > li > div > div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(2) > button",
+   "label": "上海 嘉定区",
+   "kind": "button",
+   "name": "",
+   "id": "",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "",
+   "options": []
+  },
+  {
+   "selector": "#shoppingCart\\.summary\\.viewFinanceOverlay",
+   "label": "可享免息分期付款",
+   "kind": "button",
+   "name": "",
+   "id": "shoppingCart.summary.viewFinanceOverlay",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "可享免息分期付款",
+   "href": "",
+   "options": []
+  },
+  {
+   "selector": "#shoppingCart\\.actions\\.checkout",
+   "label": "结账",
+   "kind": "button",
+   "name": "",
+   "id": "shoppingCart.actions.checkout",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账",
+   "href": "",
+   "options": []
+  },
+  {
+   "selector": "#bag-container > div > div:nth-of-type(2) > div > div > div > a",
+   "label": "立即在线交流 (在新窗口中打开)",
+   "kind": "a",
+   "name": "",
+   "id": "",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "https://www.apple.com.cn/shop/bag#",
+   "options": []
+  },
+  {
+   "selector": "#bag-container > div > div:nth-of-type(4) > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a",
+   "label": "选购 新品上架",
+   "kind": "a",
+   "name": "",
+   "id": "",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "新品上架\n\n查看新款配件。\n\n选购\n新品上架",
+   "href": "https://www.apple.com.cn/shop/accessories/all/new-arrivals",
+   "options": []
+  },
+  {
+   "selector": "#title-_r_b_-0",
+   "label": "购买常见问题解答",
+   "kind": "button",
+   "name": "",
+   "id": "title-_r_b_-0",
+   "selected": false,
+   "disabled": false,
+   "value": "",
+   "required": false,
+   "context": "你的购物袋总计 RMB 14,299，分期付款 RMB 596/月。\n每月\n所有订单均可享受免费送货和退货服务。\n结账\niPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费\n小计\nRMB 14,299\n运费\n免费\n总计\nRMB 14,299\n每月分期付款\nRMB 596/月\n每月\n(0% 费率 24 个月)\n可享免息分期付款\n结账\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n新品上架\n\n查看新款配件。\n\n选购\n新品上架\n\n \n购买常见问题解答",
+   "href": "",
+   "options": []
+  }
+ ],
+ "summary": "iPhone Air 1TB 云白色\n数量\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10+\n\nRMB 14,299\n\n移除\niPhone Air 1TB 云白色\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划) - RMB 1,799\n\n不限次数的意外损坏保修服务\n经 Apple 认证、使用正品 Apple 部件的维修服务\n优先获得 Apple 专家的帮助\n\n从 Apple 购买指定新款 iPhone 时加购 AppleCare+ 服务计划，且符合相应条件，你就可加入 iPhone 年年焕新计划。这不仅能让你获得 AppleCare+ 服务计划的保障，同时也能享受到此焕新计划的专属权益：即可在购机后 3 至 15 个月内升级下一部 iPhone，还可享原设备购买价格至少 50% 的折抵优惠。\n\n进一步了解 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加 适用于 iPhone Air 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)\n添加\n立即订购。取货 (店内)：\n今天；Apple 环球港\n, Show more stores near the postcode you entered\n下午 5:00 前订购。送货至 上海 嘉定区††\n部分订单可选 3 小时快送服务 — 免费",
+ "phone_verified": false,
+ "auth": false,
+ "challenge": false,
+ "frames": [],
+ "busy": false
+}

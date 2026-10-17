@@ -1,0 +1,2 @@
+# Preserve captured fixture bytes so recorded SHA-256 hashes remain valid.
+tests/fixtures/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

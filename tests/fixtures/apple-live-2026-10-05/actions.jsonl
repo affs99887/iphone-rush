@@ -1,0 +1,13 @@
+{"time":"2026-10-05T08:38:36.418Z","capture":"air-color.json","kind":"select","label":"1TB 脚注 1 RMB 14,299 或 RMB 596/月 (24 期) 起","selector":"#_r_i_"}
+{"time":"2026-10-05T08:38:52.002Z","capture":"air-capacity.json","kind":"select","label":"不折抵换购","selector":"#noTradeIn"}
+{"time":"2026-10-05T08:39:00.972Z","capture":"air-no-trade.json","kind":"select","label":"AppleCare+ 服务计划与 iPhone 年年焕新计划 RMB 1,799 或 RMB 75/月 (24 期)","selector":"#_r_18_"}
+{"time":"2026-10-05T08:39:09.219Z","capture":"air-configured.json","kind":"add","label":"添加到购物袋","selector":"#root > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(3) > div > div > div > div > div > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > span > form > div > span > button"}
+{"time":"2026-10-05T08:39:34.342Z","capture":"air-after-add.json","kind":"click","label":"查看购物袋","selector":"#root > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > form > button"}
+{"time":"2026-10-05T08:39:55.094Z","capture":"air-bag.json","kind":"click","label":"结账","selector":"#shoppingCart\\.actions\\.navCheckout"}
+{"time":"2026-10-05T08:44:01.001Z","capture":"air-delivery-options.json","kind":"select","label":"我要取货","selector":"#checkout-container > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > fieldset > fieldset > div > div:nth-of-type(2) > button"}
+{"time":"2026-10-05T08:44:29.951Z","capture":"air-stores-ready.json","kind":"store","label":"1 Apple 环球港 今天 可取货 店内取货","selector":"#_r_i_"}
+{"time":"2026-10-05T08:45:00.515Z","capture":"air-store-ready.json","kind":"click","label":"继续填写取货详情","selector":"#rs-checkout-continue-button-bottom"}
+{"time":"2026-10-05T08:47:08.759Z","capture":"air-contact-empty.json","kind":"fill","label":"姓氏","selector":"#checkout\\.pickupContact\\.selfPickupContact\\.selfContact\\.address\\.lastName"}
+{"time":"2026-10-05T08:47:17.828Z","capture":"air-contact-surname.json","kind":"fill","label":"名字","selector":"#checkout\\.pickupContact\\.selfPickupContact\\.selfContact\\.address\\.firstName"}
+{"time":"2026-10-05T08:47:24.052Z","capture":"air-contact-name.json","kind":"fill","label":"联系人手机号码","selector":"#checkout\\.pickupContact\\.selfPickupContact\\.selfContact\\.address\\.fullDaytimePhone"}
+{"time":"2026-10-05T09:23:49.599Z","capture":"air-cmb-selected.json","kind":"click","label":"检查订单","selector":"#rs-checkout-continue-button-bottom"}

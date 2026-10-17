@@ -1,0 +1,39 @@
+{
+  "auth": false,
+  "busy": false,
+  "challenge": false,
+  "nodes": [
+    {
+      "context": "现在登录，结账更快捷。\n访客结帐\n\n继续结账，稍后再创建 Apple 账户。\n\n以游客身份继续",
+      "disabled": false,
+      "href": "",
+      "id": "signIn.guestLogin.guestLogin",
+      "kind": "button",
+      "label": "以游客身份继续",
+      "name": "",
+      "options": [],
+      "required": false,
+      "selected": false,
+      "selector": "#signIn\\.guestLogin\\.guestLogin",
+      "value": ""
+    },
+    {
+      "context": "Apple\n商店\nMac\niPad\niPhone\nWatch\nVision\nAirPods\n家居\n娱乐\n配件\n技术支持\n0\n+\n现在登录，结账更快捷。\n访客结帐\n\n继续结账，稍后再创建 Apple 账户。\n\n以游客身份继续\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n网页页脚\n脚注\n\nApple Store 在线商店采用符合业界标准的加密技术对你提交的信息进行保密。进一步了解我们的安全政策\n (在新窗口中打开)\n。\n\n更多选购方式：查找你附近的 Apple Store 零售店及更多门店，或者致电 400-666-8800。\n\nCopyright © 2026 Apple Inc. 保留所有权利。\n隐私政策 使用条款 销售政策 法律信息 网站地图",
+      "disabled": false,
+      "href": "https://secure8.www.apple.com.cn/shop/signIn",
+      "id": "",
+      "kind": "a",
+      "label": "立即在线交流 (在新窗口中打开)",
+      "name": "",
+      "options": [],
+      "required": false,
+      "selected": false,
+      "selector": "#signin-container > div:nth-of-type(2) > div > div > a",
+      "value": ""
+    }
+  ],
+  "summary": "",
+  "text": "Apple\n商店\nMac\niPad\niPhone\nWatch\nVision\nAirPods\n家居\n娱乐\n配件\n技术支持\n0\n+\n现在登录，结账更快捷。\n访客结帐\n\n继续结账，稍后再创建 Apple 账户。\n\n以游客身份继续\n需要更多帮助？立即在线交流\n(在新窗口中打开)\n 或致电 400-666-8800。\n网页页脚\n脚注\n\nApple Store 在线商店采用符合业界标准的加密技术对你提交的信息进行保密。进一步了解我们的安全政策\n (在新窗口中打开)\n。\n\n更多选购方式：查找你附近的 Apple Store 零售店及更多门店，或者致电 400-666-8800。\n\nCopyright © 2026 Apple Inc. 保留所有权利。\n隐私政策 使用条款 销售政策 法律信息 网站地图",
+  "title": "登录 — 安全结账 - Apple (中国大陆)",
+  "url": "https://secure8.www.apple.com.cn/shop/signIn"
+}
